@@ -320,8 +320,8 @@ ax.YAxisLocation = 'origin';    % y-axis Crosses Zero
 box off;
 
 % Legend
-apstr5= sprintf('Max dVdt: %.2f mV',Max_dVdt);
-apstr6= sprintf('Min dVdt: %.2f mV',Min_dVdt);
+apstr5= sprintf('Max dVdt: %.2f mV/ms',Max_dVdt);
+apstr6= sprintf('Min dVdt: %.2f mV/ms',Min_dVdt);
 legend(Cell, apstr5,apstr6, 'Location','northwest','box','off');
 
 sgtitle([Experiment,'  /  ',Mouse,'  /  ', Cell, '  /  ',apstr3,' / ','Max & Min dVdt']);
