@@ -239,6 +239,6 @@ SearchingForAPThreshold =
     "209"             -59.357         1.4504
     "210"             -59.326         1.6037
 
-Figure 4. Phase plane plot showing Mas dV/dt and min dV/dt values. 
-<img width="1649" height="621" alt="Figure_5" src="https://github.com/user-attachments/assets/45f1f042-48e9-41e6-9932-067cd7cec68c" />
+Figure 4. Phase plane plot showing Max dV/dt and min dV/dt values. 
 
+<img width="1727" height="795" alt="Figure_5" src="https://github.com/user-attachments/assets/9f580664-e97a-48b8-a5c6-7da8a520d9d6" />
