@@ -20,6 +20,7 @@ Bottom image: Action potential threshold is visualized in mV according to the ti
 <img width="1731" height="674" alt="Figure_4" src="https://github.com/user-attachments/assets/ba67359a-669f-4b44-8319-c452aa9da36a" />
 
 Table showing the identification of action potential threshold in mV (middle column) by "change in dV/dt (right column)"
+
 SearchingForAPThreshold = 
 
   324×3 table
