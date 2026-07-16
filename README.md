@@ -1,9 +1,10 @@
-Figure 1
+Figure 1: Train of spikes with spike quantification. 
 <img width="1717" height="816" alt="Figure_1" src="https://github.com/user-attachments/assets/fa6f6463-5977-4f09-995a-09f9d2f9380f" />
 
-Figure 2
+Figure 2: Spike selection from the train of spikes (red triangle). Phase plane plot showing the inflection-point /action-potential threshold at -45.75 mV (red circle). Isolated spike #4 showing the location of the action potential threshold (red circle: -45.75 mV) and after-hyperpolarization amplitude (red trace: 13.6 mV) values. 
 <img width="1731" height="674" alt="Figure_3" src="https://github.com/user-attachments/assets/0f188a89-c5ad-435b-a9a9-c3655f0e34a6" />
-A_Table1 =
+
+A_Table1 = 
 
   1×7 table
 
@@ -12,10 +13,14 @@ A_Table1 =
 
     9.7351       -45.746      -59.387       13.641          1.04       320.03     -247.36 
 
-Figure 3
+Figure 3. 
+Top image: Identification of the action potential threshold (in mV) by "change in dV/dt", using the first derivative of the voltage trace. I measure the noise of the standard deviation (SD) of the dV/dt trace over 5 ms before the action potential. Voltage threshold is calculated as the voltage at the time point at which dV/dt reached six times the SD (i.e. meandV/dt + 6*SD dV/dt).
+
+Bottom image: Action potential threshold is visualized in mV according to the time when the change in dV/dt (rate of change) happened in the top image. 
 <img width="1731" height="674" alt="Figure_4" src="https://github.com/user-attachments/assets/ba67359a-669f-4b44-8319-c452aa9da36a" />
 
-SearchingForAPThreshold =
+Table showing the identification of action potential threshold in mV (middle column) by "change in dV/dt (right column)"
+SearchingForAPThreshold = 
 
   324×3 table
 
@@ -233,6 +238,6 @@ SearchingForAPThreshold =
     "209"             -59.357         1.4504
     "210"             -59.326         1.6037
 
-Figure 4
+Figure 4. Phase plane plot showing Mas dV/dt and min dV/dt values. 
 <img width="1649" height="621" alt="Figure_5" src="https://github.com/user-attachments/assets/45f1f042-48e9-41e6-9932-067cd7cec68c" />
 
