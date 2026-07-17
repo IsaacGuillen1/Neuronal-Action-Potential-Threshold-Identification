@@ -14,7 +14,7 @@ A_Table1 =
     9.7351       -45.746      -59.387       13.641          1.04       320.03     -247.36 
 
 Figure 3. 
-Top image: Identification of the action potential threshold (in mV) by "change in dV/dt", using the first derivative of the voltage trace. I measure the noise of the standard deviation (SD) of the dV/dt trace over 5 ms before the action potential. Voltage threshold is calculated as the voltage at the time point at which dV/dt reached six times the SD (i.e. meandV/dt + 6*SD dV/dt).
+Top image: Identification of the action potential threshold (in mV) by "change in dV/dt", using the first derivative of the voltage trace. I am measuring the noise of the standard deviation (SD) of the dV/dt trace over 5 ms before the action potential. Voltage threshold is calculated as the voltage at the time point at which dV/dt reached six times the SD (i.e. meandV/dt + 6*SD dV/dt).
 
 Bottom image: Action potential threshold is visualized in mV according to the time when the change in dV/dt (rate of change) happened in the top image. 
 <img width="1731" height="674" alt="Figure_4" src="https://github.com/user-attachments/assets/ba67359a-669f-4b44-8319-c452aa9da36a" />
